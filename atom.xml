@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ljhplus.github.io</id>
+    <title>ljhplus</title>
+    <updated>2022-10-16T09:23:50.649Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ljhplus.github.io"/>
+    <link rel="self" href="https://ljhplus.github.io/atom.xml"/>
+    <subtitle>工作、学习</subtitle>
+    <logo>https://ljhplus.github.io/images/avatar.png</logo>
+    <icon>https://ljhplus.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, ljhplus</rights>
+</feed>
